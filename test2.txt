@@ -19,3 +19,7 @@ Changes to be committed:
 6. now type: git commit -m "test2.txt file added"  
 
 7. git push origin main
+
+in simple words:
+
+insert > add > commit > push 
