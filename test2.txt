@@ -1,0 +1,21 @@
+1. type in terminal: git status
+
+2. it will show:
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)       
+        test2.txt
+
+3. now type: git add test2.txt
+
+4. type: git status
+
+5. On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   test2.txt
+
+6. now type: git commit -m "test2.txt file added"  
+
+7. git push origin main
