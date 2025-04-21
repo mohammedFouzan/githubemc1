@@ -22,4 +22,4 @@ Changes to be committed:
 
 in simple words:
 
-insert > add > commit > push
+create file > add > commit > push
