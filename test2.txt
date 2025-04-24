@@ -20,6 +20,20 @@ Changes to be committed:
 
 7. git push origin main
 
-in simple words:
+
+***********************************************
+In simple words:
 
 create file > add > commit > push
+
+This is for VS CODE to GitHub
+***********************************************
+
+
+
+***********************************************
+if we create a file in github directly and 
+we want it to reflect in VS CODE then use this command:
+
+git pull
+***********************************************
